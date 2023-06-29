@@ -1,6 +1,6 @@
 # WEB103 Prework - *CreatorVerse*
 
-Submitted by: **Shohruz**
+Submitted by: **Shohruz Ernazarov**
 
 About this web app: **This web app allows you to perform CRUD operations on popular content creators that you would like to share!**
 
