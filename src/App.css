@@ -1,0 +1,14 @@
+.card {
+    max-width: 500px;
+}
+
+.creator-card-item {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.options-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
